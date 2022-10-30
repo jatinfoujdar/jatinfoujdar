@@ -1,6 +1,5 @@
 ## Hello World 👋
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jatinfoujdar1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jatinfoujdar1&theme=dark)](https://git.io/streak-stats)
 
 - 🔭 I’m currently learning Full stack web devlopment
 
