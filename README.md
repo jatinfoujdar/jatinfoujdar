@@ -1,6 +1,8 @@
 ## Hello World 👋
 [![GitHub Streak](https://streak-stats.demolab.com?user=jatinfoujdar&theme=dark&border_radius=6.1&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=jatinfoujdar&theme=nightowl&hide_border=false)<br/>
+
 - 🔭 I’m currently learning Full stack web devlopment
 
 ## Skills:
@@ -8,6 +10,7 @@
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://www.linkedin.com/in/jatin-foujdar-066314247/)](https://www.linkedin.com/in/jatin-foujdar-066314247/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jatin_foujdar/)](https://www.instagram.com/jatin_foujdar/)
