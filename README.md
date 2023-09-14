@@ -3,11 +3,11 @@
 
 
 
-### I'm a learner and always Ravenous for new Skills !😄<br/>
-### I like building web apps, exploring scalability problems and<br/>
-### improving efficiency and performance.
+ I'm a learner and always Ravenous for new Skills !😄<br/>
+ I like building web apps, exploring scalability problems and<br/>
+ improving efficiency and performance.
 
-
+<!-- -->
 - 🔭 I’m currently learning Full stack web devlopment
 
 ## Skills:
