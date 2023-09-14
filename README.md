@@ -2,12 +2,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=jatinfoujdar&theme=dark&border_radius=6.1&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
-
- I'm a learner and always Ravenous for new Skills !😄<br/>
- I like building web apps, exploring scalability problems and<br/>
- improving efficiency and performance.
-
-<!-- -->
 - 🔭 I’m currently learning Full stack web devlopment
 
 ## Skills:
