@@ -1,7 +1,11 @@
-## Hello World 👋
+## Hello and Welcome 🙏🏻
 [![GitHub Streak](https://streak-stats.demolab.com?user=jatinfoujdar&theme=dark&border_radius=6.1&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
+
+### I'm a learner and always Ravenous for new Skills !😄<br/>
+### I like building web apps, exploring scalability problems and<br/>
+### improving efficiency and performance.
 
 
 - 🔭 I’m currently learning Full stack web devlopment
@@ -16,7 +20,6 @@
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <br/>
-
 <p><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> <img alt="webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
