@@ -1,5 +1,5 @@
 ## Hello 👋
-[![GitHub Streak](https://github-readme-streak-stats-gray.vercel.app?user=jatinfoujdar&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jatinfoujdar&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 - 🔭 I’m currently learning Full stack web devlopment
