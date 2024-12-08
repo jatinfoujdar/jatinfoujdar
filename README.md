@@ -6,8 +6,8 @@
 
 ## Skills:
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Swift-E34F26?style=for-the-badge&logo=Swift5&logoColor=white)
+![](https://img.shields.io/badge/SwiftUI-323330?style=for-the-badge&logo=Swiftui&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/ReactJs-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/React-Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <br/>
