@@ -1,6 +1,7 @@
 ## Hello 👋
 [![GitHub Streak](https://streak-stats.demolab.com?user=jatinfoujdar&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatinfoujdar&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jatinfoujdar&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jatinfoujdar&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jatinfoujdar&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jatinfoujdar&theme=github_dark&utcOffset=8)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jatinfoujdar8&theme=radical&utcOffset=8)
 
 - 🔭 I’m currently learning IOS devlopment
 
