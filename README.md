@@ -3,6 +3,10 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatinfoujdar&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jatinfoujdar&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jatinfoujdar&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jatinfoujdar&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jatinfoujdar&theme=github_dark&utcOffset=8)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jatinfoujdar8&theme=radical&utcOffset=8)
 
+<div align="center">
+       <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jatinfoujdar&radius=16&theme=nightowl&days=30&custom_title=Jatin%27s%20Last%2030%20Days%20Contribution%20Graph" height="300" alt="activity-graph graph"  /></p>
+</div>
+
 - 🔭 I’m currently learning IOS devlopment
 
 ## Skills:
