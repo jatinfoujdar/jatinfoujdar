@@ -20,14 +20,11 @@
 
 - Swift • SwiftUI • React • React Native • Node.js • MongoDB • Tailwind CSS • CSS3
 
-## 🤝 _Connect With Me:_
+## 🤝 _Connect With Me:_ 
 
-- [LinkedIn](https://www.linkedin.com/in/jatin-foujdar-066314247/)
-- [Instagram](https://www.instagram.com/jatin_foujdar/)
-- [Email](mailto:jatin321001@gmail.com)
-- [Twitter](https://twitter.com/jatinfoujdar)
-- [Website](https://jatinfoujdar32.netlify.app/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://www.linkedin.com/in/jatin-foujdar-066314247/)](https://www.linkedin.com/in/jatin-foujdar-066314247/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jatin_foujdar/)](https://www.instagram.com/jatin_foujdar/)
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jatin321001@gmail.com)](mailto:jatin321001@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=050a30&link=https://twitter.com/jatinfoujdar)](https://twitter.com/jatinfoujdar)
+[![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=white&link=https://jatinfoujdar32.netlify.app/)](https://jatinfoujdar32.netlify.app/)
 
