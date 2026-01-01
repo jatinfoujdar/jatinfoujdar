@@ -38,24 +38,14 @@ Here are some of the iOS apps I've published:
 
 ---
 
-## 💻 Skills
 
-- **Languages:** Swift, JavaScript (React, React Native), Node.js
-- **Databases:** MongoDB
-- **UI/UX:** SwiftUI, Tailwind CSS, CSS3
-- **Other:** Git, GitHub, REST APIs
+## Feel free to reach out to me through any of the platforms below:
 
----
-
-## 🤝 Connect with Me
-
-Feel free to reach out to me through any of the platforms below:
-
-- [LinkedIn](https://www.linkedin.com/in/jatin-foujdar-066314247/)  
-- [Instagram](https://www.instagram.com/jatin_foujdar/)  
-- [Twitter](https://twitter.com/jatinfoujdar)  
-- [Email](mailto:jatin321001@gmail.com)  
-- [My Website](https://jatinfoujdar32.vercel.app)
+<a href="https://www.linkedin.com/in/jatin-foujdar-066314247/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/jatin_foujdar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-8a3ab9?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://twitter.com/jatinfoujdar" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="mailto:jatin321001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-4285F4?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://jatinfoujdar32.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
 
 ---
 
