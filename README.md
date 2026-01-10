@@ -33,6 +33,7 @@ Here are some of the iOS apps I've published:
   <a href="https://apps.apple.com/ng/developer/jatin-foujdar/id1845395949" target="_blank">
     <img src="images/app1.png" alt="App 1" style="margin:6px;padding:6px;height:120px;border-radius:8px"/>
     <img src="images/app2.png" alt="App 2" style="margin:6px;padding:6px;height:120px;border-radius:8px"/>
+    <img src="images/app3.png" alt="App 1" style="margin:6px;padding:6px;height:120px;border-radius:8px"/>
     <img src="images/app4.png" alt="App 3" style="margin:6px;padding:6px;height:120px;border-radius:8px"/>
     <img src="images/app5.png" alt="App 4" style="margin:6px;padding:6px;height:120px;border-radius:8px"/>
   </a>
