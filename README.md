@@ -43,7 +43,7 @@ Here are some of the iOS apps I've published:
 ---
 
 
-## Feel free to reach out to me :-
+## Feel free to reach out to me:-
 
 <a href="https://www.linkedin.com/in/jatin-foujdar-066314247/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/jatin_foujdar/" target="_blank"><img src="https://img.shields.io/badge/Instagram-8a3ab9?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
