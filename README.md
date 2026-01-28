@@ -14,7 +14,6 @@ Here are some of the iOS apps I've published:
     <img src="images/app2.png" alt="App 2" style="margin:6px;padding:6px;height:120px;border-radius:8px"/>
     <img src="images/app3.png" alt="App 1" style="margin:6px;padding:6px;height:120px;border-radius:8px"/>
     <img src="images/app4.png" alt="App 3" style="margin:6px;padding:6px;height:120px;border-radius:8px"/>
-    </br>
     <img src="images/app5.png" alt="App 4" style="margin:6px;padding:6px;height:120px;border-radius:8px"/>
     <img src="images/app6.png" alt="App 4" style="margin:6px;padding:6px;height:120px;border-radius:8px"/>
   </a>
@@ -25,25 +24,21 @@ Here are some of the iOS apps I've published:
 
 ## 🌟 GitHub Stats
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatinfoujdar&theme=github_dark)
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jatinfoujdar&theme=github_dark)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jatinfoujdar&theme=github_dark)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jatinfoujdar&theme=github_dark)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jatinfoujdar&theme=radical&utcOffset=8)
+<table>
+  <tr>
+    <td align="center">
+      <h3>🌟 GitHub Stats</h3>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatinfoujdar&theme=github_dark" />
+    </td>
+    <td align="center">
+      <h3>📈 Activity Graph</h3>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatinfoujdar&radius=16&theme=nightowl&days=30&custom_title=Jatin%27s%20Last%2030%20Days%20Contribution%20Graph" height="300" />
+    </td>
+  </tr>
+</table>
 
-
-## 📈 Activity Graph
-<div align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jatinfoujdar&radius=16&theme=nightowl&days=30&custom_title=Jatin%27s%20Last%2030%20Days%20Contribution%20Graph" height="300" alt="activity-graph graph"/>
-</div>
 
 ---
-
-## 🔭 Current Focus
-
-- I’m currently learning **iOS Development** with Swift and SwiftUI.  
-- Building apps and exploring new technologies!
-
 
 ## Feel free to reach out to me:-
 
