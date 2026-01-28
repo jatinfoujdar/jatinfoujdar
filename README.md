@@ -22,16 +22,14 @@ Here are some of the iOS apps I've published:
 
 ---
 
-## 🌟 GitHub Stats
+## 🌟 GitHub Stats & Activity Graph
 
 <table>
   <tr>
     <td align="center">
-      <h3>🌟 GitHub Stats</h3>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatinfoujdar&theme=github_dark" />
     </td>
     <td align="center">
-      <h3>📈 Activity Graph</h3>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatinfoujdar&radius=16&theme=nightowl&days=30&custom_title=Jatin%27s%20Last%2030%20Days%20Contribution%20Graph" height="300" />
     </td>
   </tr>
